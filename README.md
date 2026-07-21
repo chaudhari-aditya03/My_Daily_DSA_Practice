@@ -41,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/1260-shift-2d-grid) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
