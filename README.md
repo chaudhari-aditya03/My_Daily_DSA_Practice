@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Matrix
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
