@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0283-move-zeroes) |
 | [1260-shift-2d-grid](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/1260-shift-2d-grid) |
 ## Hash Table
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
