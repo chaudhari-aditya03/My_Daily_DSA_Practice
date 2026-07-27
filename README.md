@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0013-roman-to-integer) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/chaudhari-aditya03/My_Daily_DSA_Practice/tree/master/0013-roman-to-integer) |
 ## Linked List
 |  |
 | ------- |
